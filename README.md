@@ -35,6 +35,16 @@
 
      [![My Skills](https://skillicons.dev/icons?i=visualstudio,vercel,github,git)](https://skillicons.dev)
 
+<h3 align="center">Front-End Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
+</p>
+
+<h3 align="center">Software & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vercel,github,git" />
+</p>
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 

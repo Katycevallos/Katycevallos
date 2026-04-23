@@ -25,16 +25,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 
-- **Front-End Development**:
-
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
-
-<br>
-
-- **Softwares and Tools**:
-
-     [![My Skills](https://skillicons.dev/icons?i=visualstudio,vercel,github,git)](https://skillicons.dev)
-
 <h3 align="center">Front-End Development</h3><br> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
@@ -46,11 +36,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vercel,github,git" />
 </p>
-
+---
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
----
+
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/katherine-cevallos-coronel/">

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Katherine</h1>
 
-<h3 align="center">A passionate developer from Ecuador 🇪🇨 </h3>
+<h3 align="center">A passionate developer from Ecuador 🇪🇨 living in Australia </h3>
 
 <p> Welcome to my web development corner! I'm a technology enthusiast who enjoys exploring the latest trends and tools in the world of web development. In this repository, you will find an exciting journey through my projects, experiments and learnings as I navigate the vast ocean of the web. </p>
 
 - 🔭 I'm currently a graduate of Laboratoria
-- 🌱 I’m currently learning React, node.js
+- 🌱 I’m currently learning SQL and Python for data projects
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -37,7 +37,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,figma)](https://skillicons.dev)
 
 <br>
 

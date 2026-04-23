@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Katherine</h1>
 
-<h3 align="center"> Frontend Developer transitioning into Data Analytics | Based in Australia </h3>
+<h3 align="center"> Frontend Developer with a focus on Data Analytics | Based in Australia </h3>
 
 <p> Welcome to my web development corner! I'm a technology enthusiast who enjoys exploring the latest trends and tools in the world of web development. In this repository, you will find an exciting journey through my projects, experiments and learnings as I navigate the vast ocean of the web. </p>
 
@@ -16,26 +16,32 @@
 ---
 
 ### 🧠 What I'm Working On
-- Building data projects using **SQL + Python**
-- Creating dashboards and visualizations
-- Strengthening problem-solving with real datasets
+- Building a SQL project analyzing real-world datasets (sales/user data)
+- Creating dashboards using Python (Pandas + visualization)
+- Practicing data querying and optimization with real scenarios
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 
-<h3 align="center">* Front-End Development:</h3><br> 
+<h3 align="center">Front-End Development</h3><br> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
 </p>
 
 <br>
 
-<h3 align="center">* Software & Tools:</h3> <br>
+<h3 align="center">Tools & Technologies</h3> <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vercel,github,git" />
 </p>
+
+---
+
+### 📂 Featured Projects
+- 🔹 Data Analysis Project (SQL) – coming soon
+- 🔹 Dashboard Project (Python) – coming soon
 
 ---
 

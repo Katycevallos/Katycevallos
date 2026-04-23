@@ -35,12 +35,14 @@
 
      [![My Skills](https://skillicons.dev/icons?i=visualstudio,vercel,github,git)](https://skillicons.dev)
 
-<h3 align="center">Front-End Development</h3>
+<h3 align="center">Front-End Development</h3><br> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
 </p>
 
-<h3 align="center">Software & Tools</h3>
+<br>
+
+<h3 align="center">Software & Tools</h3> <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vercel,github,git" />
 </p>
